@@ -1,0 +1,4 @@
+vocab = cuedbeg
+leftdown = yes
+rightdown = yes
+addinvert = yes

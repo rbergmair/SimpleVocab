@@ -1,0 +1,4 @@
+vocab = test.voc
+leftdown = no
+rightdown = no
+addinvert = yes
